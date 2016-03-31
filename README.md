@@ -1,5 +1,6 @@
-"Lovely Istanbul"
-Guide to a historic city 
+# "Lovely Istanbul"
+
+## Guide to a historic city 
 
 Aim: To build a one-page website showing the following:
 
